@@ -1,3 +1,3 @@
 Resources:
-    https://kubernetes.io/
-    https://kind.sigs.k8s.io/
+    1. https://kubernetes.io/
+    2. https://kind.sigs.k8s.io/
